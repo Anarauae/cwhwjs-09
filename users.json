@@ -1,0 +1,65 @@
+{
+    "theBest": [
+      {
+        "title": "Python",
+        "author": "Mirlan Urzhanov"
+      },
+      {
+        "title": "AI",
+        "author": "Turat Alybaev"
+      },
+      {
+        "title": "Java",
+        "author": "Oljobai Iskender"
+      },
+      {
+        "title": "JavaScript",
+        "author": "Timur Mone"
+      },
+      {
+        "title": "Software Engineering",
+        "author": "Bakyt Abdishov"
+      },
+      {
+        "title": "DevOps",
+        "author": "Aidana Omurbaeva"
+      },
+      {
+        "title": "Google",
+        "author": "Beknazar Zhamangaraev"
+      },
+      {
+        "title": "Google Senior Programmer",
+        "author": "Taalai ZHumabaev"
+      },
+      {
+        "title": "Software Engineer",
+        "author": "Erkebek Abdrakhman uulu"
+      },
+      {
+        "title": "Full Stack Developer",
+        "author": "Azamat Toktakunov"
+      },
+      {
+        "title": "QA Automation",
+        "author": "Damira Ahmedova"
+      },
+      {
+        "title": "Software Engineer",
+        "author": "Kushtar Tynarbekov"
+      },
+      {
+        "title": "Data Scientist",
+        "author": "Zamir Akimbekov"
+      },
+      {
+        "title": "IT Programmin",
+        "author": "Tilek Sulaimanbekov"
+      },
+      {
+        "title": "IT-Consultant",
+        "author": "Elnura Naralieva"
+      }
+    ]
+
+}
